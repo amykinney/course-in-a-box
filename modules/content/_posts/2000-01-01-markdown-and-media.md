@@ -1,5 +1,5 @@
 ---
-title: Module 1/: Introduction to AI Ethics
+title: Introduction to AI Ethics
 ---
 
 ## Understanding AI and Ethics
