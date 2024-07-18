@@ -1,5 +1,5 @@
 ---
-title: Markdown & Media
+title: Understanding AI and Ethics
 ---
 
 ## Formatting Text with Markdown
